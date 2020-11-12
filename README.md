@@ -1,15 +1,13 @@
-# Shalatan
-## Hi, I'm Shashank <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## 1. Info
+# Hi, I'm Shashank <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## 1. Info
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
 
@@ -29,6 +27,7 @@
   - [Sandwich Club App](https://github.com/Shalatan/SandwichClubApp)
   - [Popular Movie App](https://github.com/Shalatan/PopularMoviesApp)
   - [Baking App](https://github.com/Shalatan/BakingApp)
+  - [JokeApp](https://github.com/Shalatan/JokesAndroidApp)
   - [xyzReader App](https://github.com/Shalatan/xyzReaderApp)
 
 - [Python For Everybody Specilization](https://www.coursera.org/account/accomplishments/specialization/certificate/N2NZFVC8CXSX)
