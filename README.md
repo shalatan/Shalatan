@@ -1,6 +1,7 @@
 # Hi, I'm Shashank <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/wave.gif" width="30px">
 
 ## 1. Info
+- [Resume](https://github.com/Shalatan/Shalatan/blob/master/resume.pdf)
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/android.svg" alt="android" width="40" height="40"/> </a>
