@@ -14,12 +14,19 @@
 
 ## 2. Connect
 <p align='center'>
-  <a href="https://instagram.com/__shalatan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/geeksforgeeks.svg" alt="__shalatan__" height="30" width="40" /></a>
+  <a href="https://instagram.com/__shalatan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/instagram.svg" alt="__shalatan__" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shashank-singh-abb710186" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/linkedin.svg" alt="shashank-singh-abb710186" height="30" width="40"/> </a>
-  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shalatan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/instagram.svg" alt="https://auth.geeksforgeeks.org/user/shalatan/profile" height="30" width="40" /> </a>
 </p>
 
-## 3. Certifications
+## 3. Projects
+- [Entertainment App (apk)](https://github.com/Shalatan/EntertainmentApp/blob/master/Entertainment%20App.apk)
+  - An Android App completely developed in Kotlin following MVVM Architecture.
+  - App uses TMDB API to fetch movies data and display the different sets of movies on user's screen
+  - App uses external libraries like Retrofit, Glide, BigImageViewer(to make posters zoomable)
+  - App uses ROOM Library to store user's watched and watch later playlists locally with a swipe to delete functionality
+  - User can also set any poster as their device's wallpaper.
+
+## 4. Certifications
 - [Android Basic Nanodegree by Google](https://confirm.udacity.com/QR3SJHCD)
   - [News App](https://github.com/Shalatan/NewsApp)
   - [Bangalore Travel Guide App](https://github.com/Shalatan/BangaloreTravelGuideApp)
