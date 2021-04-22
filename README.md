@@ -5,8 +5,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/android.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/java.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/firebase.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
@@ -19,9 +19,9 @@
 </p>
 
 ## 3. Projects
-- [Entertainment App (apk)](https://github.com/Shalatan/EntertainmentApp/blob/master/Entertainment%20App.apk)
+- [Movies Hex](https://github.com/Shalatan/EntertainmentApp)
   - An Android App completely developed in Kotlin following MVVM Architecture.
-  - App uses TMDB API to fetch movies data and display the different sets of movies on user's screen
+  - App uses TMDB API to fetch movies data and display the different lists of movies on user's screen
   - App uses external libraries like Retrofit, Glide, BigImageViewer(to make posters zoomable)
   - App uses ROOM Library to store user's watched and watch later playlists locally with a swipe to delete functionality
   - User can also set any poster as their device's wallpaper.
