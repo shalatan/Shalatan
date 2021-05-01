@@ -3,7 +3,7 @@
 ## 1. Info
 - Native Android Developer (Kotlin)
 - Pursuing Bachelor of Engineering, SJBIT Bangalore
-- **Fun Fact** - Shalatan - Shashank + Zlatan (Soccer Player)  ;)
+- Fun Fact - ***Shalatan*** = *Shashank* + *Zlatan* (meaning : To dominate) (Soccer Player)
 - [Resume](https://github.com/Shalatan/Shalatan/blob/master/resume.pdf) 
 
 
@@ -43,6 +43,8 @@
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalatan&show_icons=true&locale=en&layout=compact"alt="shalatan"/> </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shalatan&label=Profile%20views&color=0e75b6&style=flat" alt="shalatan" /> </p>
+
+Loading................
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/shalatan) -->
 
