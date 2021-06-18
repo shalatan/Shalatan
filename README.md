@@ -2,9 +2,10 @@
 
 ## 1. Info
 - Native Android Developer (Kotlin)
-- Pursuing Bachelor of Engineering, SJBIT Bangalore
-- Fun Fact - ***Shalatan*** = *Shashank* + *Zlatan* (meaning : To dominate) (Soccer Player)
-- [Resume](https://github.com/Shalatan/Shalatan/blob/master/resume.pdf) 
+- Pursuing Bachelor of Engineering, Bangalore
+- What's actually ***Shalatan*** ? = *Shashank* + *Zlatan* (Soccer Player)
+<!-- - [Resume](https://github.com/Shalatan/Shalatan/blob/master/resume.pdf)  -->
+[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
 
 <h3 align="center">Languages and Tools Used:</h3>
@@ -18,7 +19,7 @@
 
 ## 2. Connect
 <p align='center'>
-  <a href="https://instagram.com/__shalatan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/instagram.svg" alt="__shalatan__" height="30" width="40" /></a>
+  <a href="https://instagram.com/_.shalatan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/instagram.svg" alt="__shalatan__" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shashank-singh-abb710186" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shalatan/Shalatan/master/graphics/linkedin.svg" alt="shashank-singh-abb710186" height="30" width="40"/> </a>
 </p>
 
