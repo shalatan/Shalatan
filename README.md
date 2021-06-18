@@ -1,13 +1,18 @@
 # Hi, I'm Shashank <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/wave.gif" width="30px">
 
-## 1. Info
+## ◌ Info
 - Native Android Developer (Kotlin)
-- Pursuing Bachelor of Engineering, Bangalore
+- Android Basic Nanodegree by Google [*(Credential)*](https://confirm.udacity.com/QR3SJHCD)
+- Android Developer Nanodegree [*(Credential)*](https://confirm.udacity.com/EWGFAN2A)
 - What's actually ***shalatan*** ? = *Shashank* + *Zlatan* (Soccer Player)
 <!-- - [Resume](https://github.com/shalatan/shalatan/blob/master/resume.pdf)  -->
 
 
-<h3 align="center">Languages and Tools Used:</h3>
+## ◌ Published Projects <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/powerup.gif" height="32px"> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shalatan&repo=EntertainmentApp&theme=radical)](https://github.com/shalatan/EntertainmentApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shalatan&repo=DevJoke-App&theme=radical)](https://github.com/shalatan/DevJoke-App)
+
+
+## ◌ Languages and Tools <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/PC.gif" height="32px"> 
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/android.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
@@ -16,38 +21,16 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-
-<img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/handshake.gif" height="32px"> ***Connect***
+## ◌ Connect <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/handshake.gif" height="32px"> 
 <p align='center'>
   <a href="https://instagram.com/_.shalatan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/instagram.svg" alt="__shalatan__" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shashank-singh-abb710186" target="blank"><img align="center" src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/linkedin.svg" alt="shashank-singh-abb710186" height="30" width="40"/> </a>
 </p>
 
-## 3. Published Projects
-- [Movies Hex](https://github.com/shalatan/EntertainmentApp)
-
-## 4. Certifications And Projects
-- Android Basic Nanodegree by Google [*(Credential)*](https://confirm.udacity.com/QR3SJHCD)
-  - [News App](https://github.com/shalatan/NewsApp)
-  - [Bangalore Travel Guide App](https://github.com/shalatan/BangaloreTravelGuideApp)
-
-- Android Developer Nanodegree [*(Credential)*](https://confirm.udacity.com/EWGFAN2A)
-  - [Sandwich Club App](https://github.com/shalatan/SandwichClubApp)
-  - [Popular Movie App](https://github.com/shalatan/PopularMoviesApp)
-  - [Baking App](https://github.com/shalatan/BakingApp)
-  - [JokeApp](https://github.com/shalatan/JokesAndroidApp)
-  - [xyzReader App](https://github.com/shalatan/xyzReaderApp)
-
-- Python For Everybody Specilization [*(Credential)*](https://www.coursera.org/account/accomplishments/specialization/certificate/N2NZFVC8CXSX)
-  - [Repository](https://github.com/shalatan/Python-For-Everybody-Specialization)
-
+<br>
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalatan&show_icons=true&locale=en&layout=compact"alt="shalatan"/> </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shalatan&label=Profile%20views&color=0e75b6&style=flat" alt="shalatan" /> </p>
-
-Loading................
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/shalatan) -->
 
 
 
