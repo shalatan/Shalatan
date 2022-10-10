@@ -1,25 +1,21 @@
-# Hi, I'm Shashank <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/wave.gif" width="30px">
+# hello, this is Shashank  aka *shalatan* <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/wave.gif" width="30px">
 
-## ◌ Info
-- Native Android Developer (Kotlin)
+### ◌ Info
+- budding android developer
+- worked [@Trelos](https://www.linkedin.com/company/trelos-technologies/) [@Digiboxx](https://digiboxx.com/)
 - Android Basic Nanodegree by Google [*(Credential)*](https://confirm.udacity.com/QR3SJHCD)
 - Android Developer Nanodegree [*(Credential)*](https://confirm.udacity.com/EWGFAN2A)
-- What's actually ***shalatan*** ? = *Shashank* + *Zlatan* (Soccer Player)
+- Find my latest resume [here](https://drive.google.com/drive/folders/10_g232Pj3o_CP_mX8MGBurc-dqyEApfv?usp=sharing)
+- What's with ***shalatan*** ? = *Shashank* + *Zlatan*
 <!-- - [Resume](https://github.com/shalatan/shalatan/blob/master/resume.pdf)  -->
 
+### ◌ When !Coding then,
+- reading books, specifically biographies (Elon Musk, Satya Nadella, Steve Jobs, Albert Einstein)
+- playing video games (CODM, NFS)
+- create videos [@shalatan.heif](https://www.instagram.com/shalatan.heif/)
 
 ## ◌ Published Projects <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/powerup.gif" height="32px"> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shalatan&repo=EntertainmentApp&theme=radical)](https://github.com/shalatan/EntertainmentApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shalatan&repo=DevJoke-App&theme=radical)](https://github.com/shalatan/DevJoke-App)
-
-
-## ◌ Languages and Tools <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/PC.gif" height="32px"> 
-<p align="center"> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/android.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
 
 ## ◌ Connect <img src="https://raw.githubusercontent.com/shalatan/shalatan/master/graphics/handshake.gif" height="32px"> 
 <p align='center'>
@@ -28,9 +24,16 @@
 </p>
 
 <br>
-
-<!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalatan&show_icons=true&locale=en&layout=compact"alt="shalatan"/> </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shalatan&label=Profile%20views&color=0e75b6&style=flat" alt="shalatan" /> </p>
+
+<!---
+<p align="center">
+<a href="https://github.com/shalatan">
+   <img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shalatan&theme=tokyonight"/> &ensp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shalatan&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+--->
 
 
 
